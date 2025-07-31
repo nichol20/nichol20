@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nichol20&layout=donut-vertical&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/nichol20/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nichol20&layout=donut-vertical&langs_count=20&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/nichol20/github-readme-stats)
 
 <h3> 🔧 Skills </h3>
 
